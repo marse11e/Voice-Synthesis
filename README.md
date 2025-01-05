@@ -5,10 +5,10 @@
 ## 🎧 Демонстрация
 
 ### Образец голоса
-<audio src="voice_samples/aliya.wav" controls></audio>
+<audio src="./voice_samples/aliya.wav" controls></audio>
 
 ### Результат синтеза
-<audio src="output/output.wav" controls></audio>
+<audio src="./output/output.wav" controls></audio>
 
 ## ✨ Особенности
 
