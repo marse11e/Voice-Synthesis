@@ -5,10 +5,10 @@
 ## 🎧 Демонстрация
 
 ### Образец голоса
-<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=ваша_ссылка_на_soundcloud"></iframe>
+<audio src="voice_samples/aliya.wav" controls></audio>
 
 ### Результат синтеза
-<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=ваша_ссылка_на_soundcloud"></iframe>
+<audio src="output/output.wav" controls></audio>
 
 ## ✨ Особенности
 
